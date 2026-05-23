@@ -6,7 +6,7 @@ This is my personal **portfolio website** created using **HTML, Bootstrap, and J
 It highlights my skills, showcases my projects, and provides ways to get in touch.
 
 ## 🔗 Live Demo
-[View Portfolio](https://nandakishore695.github.io/portfolio_green_black/)
+[View Portfolio](https://github.com/ocjdagreat1/my-portfolio2)
 
 ## ✨ Features
 - Fully responsive design with Bootstrap
@@ -24,6 +24,6 @@ It highlights my skills, showcases my projects, and provides ways to get in touc
 Clone the repository and open `index.html` in your browser:
 
 ```bash
-git clone https://github.com/Nandakishore695/portfolio_green_black.git
-cd portfolio
+git clone https://github.com/ocjdagreat1/my-portfolio2.git
+
 
